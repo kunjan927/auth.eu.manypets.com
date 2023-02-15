@@ -1,1 +1,1 @@
-# us.manypets.com
+# auth.us.manypets.com
